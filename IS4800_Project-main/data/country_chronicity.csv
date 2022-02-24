@@ -1,0 +1,233 @@
+country,chronicity
+United States,Monochronic
+Afghanistan,Polychronic
+Albania,Polychronic
+Algeria,Polychronic
+American Samoa,Polychronic
+Andorra,Polychronic
+Angola,Polychronic
+Anguilla,Monochronic
+Antigua and Barbuda,Polychronic
+Argentina,Polychronic
+Armenia,Polychronic
+Aruba,Polychronic
+Australia,Monochronic
+Austria,Monochronic
+Azerbaijan,Polychronic
+Bahamas,Polychronic
+Bahrain,Polychronic
+Bangladesh,Polychronic
+Barbados,Polychronic
+Belarus,Monochronic
+Belgium,Monochronic
+Belize,Polychronic
+Benin,Polychronic
+Bermuda,Polychronic
+Bhutan,Polychronic
+Bolivia,Polychronic
+Bosnia and Herzegovina,Polychronic
+Botswana,Polychronic
+Brazil,Polychronic
+British Virgin Islands,Monochronic
+Brunei,Monochronic
+Bulgaria,Polychronic
+Burkina Faso,Polychronic
+Burundi,Polychronic
+Cambodia,Polychronic
+Cameroon,Polychronic
+Canada,Monochronic
+Cape Verde,Polychronic
+Cayman Islands,Monochronic
+Central African Republic,Polychronic
+Chad,Polychronic
+Chile,Polychronic
+China,Polychronic
+Colombia,Polychronic
+Comoros,Polychronic
+Cook Islands,Polychronic
+Costa Rica,Polychronic
+Croatia,Polychronic
+Cuba,Polychronic
+Curacao,Polychronic
+Cyprus,Polychronic
+Czech Republic,Monochronic
+Denmark,Monochronic
+Djibouti,Polychronic
+Dominica,Polychronic
+Dominican Republic,Polychronic
+DR Congo,Polychronic
+Ecuador,Polychronic
+Egypt,Polychronic
+El Salvador,Polychronic
+Equatorial Guinea,Polychronic
+Eritrea,Polychronic
+Estonia,Monochronic
+Ethiopia,Polychronic
+Falkland Islands,Polychronic
+Faroe Islands,Monochronic
+Fiji,Polychronic
+Finland,Monochronic
+France,Polychronic
+French Guiana,Monochronic
+French Polynesia,Polychronic
+Gabon,Polychronic
+Gambia,Polychronic
+Georgia,Polychronic
+Germany,Monochronic
+Ghana,Polychronic
+Gibraltar,Polychronic
+Greece,Polychronic
+Greenland,Monochronic
+Grenada,Polychronic
+Guadeloupe,Polychronic
+Guam,Polychronic
+Guatemala,Polychronic
+Guinea,Polychronic
+Guinea-Bissau,Polychronic
+Guyana,Polychronic
+Haiti,Polychronic
+Honduras,Polychronic
+Hong Kong,Monochronic
+Hungary,Polychronic
+Iceland,Monochronic
+India,Polychronic
+Indonesia,Polychronic
+Iran,Polychronic
+Iraq,Polychronic
+Ireland,Monochronic
+Isle of Man,Monochronic
+Israel,Monochronic
+Italy,Polychronic
+Ivory Coast,Polychronic
+Jamaica,Polychronic
+Japan,Monochronic
+Jordan,Polychronic
+Kazakhstan,Polychronic
+Kenya,Polychronic
+Kiribati,Polychronic
+Kuwait,Polychronic
+Kyrgyzstan,Polychronic
+Laos,Monochronic
+Latvia,Monochronic
+Lebanon,Polychronic
+Lesotho,Polychronic
+Liberia,Polychronic
+Libya,Polychronic
+Liechtenstein,Monochronic
+Lithuania,Monochronic
+Luxembourg,Monochronic
+Macau,Polychronic
+Macedonia,Polychronic
+Madagascar,Polychronic
+Malawi,Polychronic
+Malaysia,Polychronic
+Maldives,Polychronic
+Mali,Polychronic
+Malta,Polychronic
+Marshall Islands,Polychronic
+Martinique,Polychronic
+Mauritania,Polychronic
+Mauritius,Polychronic
+Mayotte,Polychronic
+Mexico,Polychronic
+Micronesia,Polychronic
+Moldova,Polychronic
+Monaco,Monochronic
+Mongolia,Polychronic
+Montenegro,Polychronic
+Montserrat,Polychronic
+Morocco,Polychronic
+Mozambique,Polychronic
+Myanmar,Polychronic
+Namibia,Polychronic
+Nauru,Polychronic
+Nepal,Polychronic
+Netherlands,Monochronic
+New Caledonia,Polychronic
+New Zealand,Monochronic
+Nicaragua,Polychronic
+Niger,Polychronic
+Nigeria,Polychronic
+Niue,Polychronic
+North Korea,Monochronic
+Northern Mariana Islands,Polychronic
+Norway,Monochronic
+Oman,Polychronic
+Pakistan,Polychronic
+Palau,Polychronic
+Palestine,Polychronic
+Panama,Polychronic
+Papua New Guinea,Polychronic
+Paraguay,Polychronic
+Peru,Polychronic
+Philippines,Monochronic
+Poland,Monochronic
+Portugal,Polychronic
+Puerto Rico,Polychronic
+Qatar,Polychronic
+Republic of the Congo,Polychronic
+Reunion,Polychronic
+Romania,Polychronic
+Russia,Monochronic
+Rwanda,Polychronic
+Saint Barthélemy,Polychronic
+Saint Kitts and Nevis,Polychronic
+Saint Lucia,Polychronic
+Saint Martin,Polychronic
+Saint Pierre and Miquelon,Monochronic
+Saint Vincent and the Grenadines,Polychronic
+Samoa,Polychronic
+San Marino,Polychronic
+Sao Tome and Principe,Polychronic
+Saudi Arabia,Polychronic
+Senegal,Polychronic
+Serbia,Polychronic
+Seychelles,Polychronic
+Sierra Leone,Polychronic
+Singapore,Polychronic
+Sint Maarten,Polychronic
+Slovakia,Polychronic
+Slovenia,Polychronic
+Solomon Islands,Polychronic
+Somalia,Polychronic
+South Africa,Monochronic
+South Korea,Monochronic
+South Sudan,Polychronic
+Spain,Polychronic
+Sri Lanka,Polychronic
+Sudan,Polychronic
+Suriname,Polychronic
+Swaziland,Polychronic
+Sweden,Monochronic
+Switzerland,Monochronic
+Syria,Polychronic
+Taiwan,Polychronic
+Tajikistan,Polychronic
+Tanzania,Polychronic
+Thailand,Polychronic
+Timor-Leste,Polychronic
+Togo,Polychronic
+Tokelau,Polychronic
+Tonga,Polychronic
+Trinidad and Tobago,Polychronic
+Tunisia,Polychronic
+Turkey,Polychronic
+Turkmenistan,Polychronic
+Turks and Caicos Islands,Polychronic
+Tuvalu,Polychronic
+Uganda,Polychronic
+Ukraine,Monochronic
+United Arab Emirates,Polychronic
+United Kingdom,Monochronic
+United States Virgin Islands,Polychronic
+Uruguay,Polychronic
+Uzbekistan,Polychronic
+Vanuatu,Polychronic
+Vatican City,Polychronic
+Venezuela,Polychronic
+Vietnam,Monochronic
+Wallis and Futuna,Polychronic
+Western Sahara,Polychronic
+Yemen,Polychronic
+Zambia,Polychronic
+Zimbabwe,Polychronic
