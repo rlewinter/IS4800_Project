@@ -1,0 +1,33 @@
+field,description
+TASK_STARTED_LOAD,Number of tasks started
+TASKS_LIST_LOAD,Number of times that tasks were listed
+TASK_SUBMITED_LOAD,Number of tasks submitted
+FINISHED_TASK_LOAD,Number of confirmations of finished tasks
+BELL_CLICK,Number of clicks over the notification icon
+SETT_CLICK,Number of clicks on the plugin settings button
+SETT_SAVE,Number of times that the settings were changed
+MSG_RCV_WORKER,Number of messages received from other workers
+MSG_CLICK_WORKER,Number of messages opened from other workers
+MSG_RCV_REQUESTER,Number of messages received from requesters
+MSG_CLICK_REQUESTER,Number of messages opened from requsters
+LIST_NEW,Number of times that tasks were listed sorted from newest to oldest
+LIST_RECOM,Number of times that tasks were listed by a recommenderr system
+LIST_PAY,Number of times that tasks were listed sorted from high to low payments
+TASK_HIDE_ON,Number of times that quiet mode was enabled
+TASK_HIDE_OFF,Number of times that quiet mode was disables
+tasks_count,Number of task previews
+wage_sum,Hourly wage
+wage_max,Max wage
+all_tasks_count,All the tasks peviewed
+all_rewards,All the earnings
+TASKS_LIST,Partial number of tasks listed
+MESSAGES_READ,Number of times that workers visited the messaging section
+TASK_INFO,Number of times that workers read the instrutions of tasks
+TASK_TIMEOUT,Number of times that tasks timed out
+TASK_SUBMITED,Number of tasks registered to be submitted
+WORKER_EARNINGS,Number of times that workers visited the earnings section
+WORKER_EARNINGS_DETAILS,Number of times that workers visited the earning details section
+WORKER_DASHBOARD,Number of times that workers visited the dashboard section
+WORKER_QUALIFICATIONS,Number of times that workers visited the skills section
+TASK_QUEUE,Number of times that workers visited their tasks queues
+MESSAGES_NOTIFICATION,Number of times that workers visited the notifications section
